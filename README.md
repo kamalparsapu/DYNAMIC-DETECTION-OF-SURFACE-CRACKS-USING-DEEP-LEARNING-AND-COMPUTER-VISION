@@ -28,7 +28,8 @@ For this project, we explored three different deep learning architectures: ResNe
 The dataset used for training the crack detection models consists of images captured from various sources, including drones, cameras, and satellite imagery. These images contain different types of cracks, such as surface cracks, structural cracks, and pavement cracks. The dataset is labeled with ground truth annotations, indicating the presence and location of cracks in each image.
 
 Sample images from the dataset:
-- ![Sample Image 1](path_to_image)
+- ![Sample Image 1](![image](https://github.com/kamalparsapu/DYNAMIC-DETECTION-OF-SURFACE-CRACKS-USING-DEEP-LEARNING-AND-COMPUTER-VISION/assets/101061373/590038e5-289e-4a36-837a-aba30d3741d7)
+)
 - ![Sample Image 2](path_to_image)
 - ![Sample Image 3](path_to_image)
 
