@@ -52,6 +52,11 @@ Each of the trained models achieved an accuracy of 99.99927% on the test dataset
 4. OpenCV
 5. Google Colab
 
+   
+## Project Demonstration 
+[![Demonstartion](thumbnail_image_url)](https://github.com/kamalparsapu/DYNAMIC-DETECTION-OF-SURFACE-CRACKS-USING-DEEP-LEARNING-AND-COMPUTER-VISION/assets/101061373/8959afde-0b92-43ee-9ae8-794d1258cb5c)
+
+
 ## Tested Sample Images
 
 Real-time crack detection was performed using the trained models on sample images captured from different environments. The models successfully identified cracks in these images, as shown below:
