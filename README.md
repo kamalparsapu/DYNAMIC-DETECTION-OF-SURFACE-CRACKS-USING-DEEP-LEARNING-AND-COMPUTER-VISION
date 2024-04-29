@@ -35,7 +35,7 @@ Sample images from the dataset:
 
 ## Performance
 
-Each of the trained models achieved an accuracy of 99.99927% on the test dataset, demonstrating their effectiveness in detecting cracks in images. Further evaluation metrics, such as precision, recall, and F1 score, are provided in the project documentation.
+Each of the trained models achieved an accuracy of 99.83% on the test dataset, demonstrating their effectiveness in detecting cracks in images. Further evaluation metrics, such as precision, recall, and F1 score, are provided in the project documentation.
 - *Confusion matrix comparision* :
   ![image](https://github.com/kamalparsapu/DYNAMIC-DETECTION-OF-SURFACE-CRACKS-USING-DEEP-LEARNING-AND-COMPUTER-VISION/blob/main/project%20related%20images/download%20(14).png) 
   
